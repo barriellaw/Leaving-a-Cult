@@ -1,0 +1,36 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leaving a cult</title>
+</head>
+<body>
+    <div style="text-align: center;">
+        <h1>Welcome!</h1>
+        <p hidden>You have been granted access to the platform. Please creat an account</p>
+        <!input type="text" placeholder="Enter Username">
+        <!input type="text" placeholder="Enter Password">
+        <button hidden> Sign Up!</button>
+    </div>
+    <div style="text-align: center;">
+        <h2>From Monroe to the Bronx to Brooklyn to Manhattan</h2>
+        <figure style="text-align: center;">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT49CDH_RC0HmWVt8D32YsfIJ-Z9Yrqzf3rbg&s" width="100%" alt="Main synagogue in the village of Kiryas joal"><figcaption>Main synagogue in the village of Kiryas Joel</figcaption>
+        </figure>
+        <br>
+        <div style="text-align: left;">
+        <p>
+            It was a cold Wednesday night. I found myself in a bar, just a 20-minute drive from my old town of Kiryas Joel. The alcohol had started to cloud my mind, giving me the courage to answer the phone that had been ringing incessantly for the past 20 minutes. On the other end was Moishe, my mentor appointed by the village.
+        </p>
+        <p>"Hello," I murmured in a quiet voice.</p>
+        <p>"Your wife is trying to reach you," he informed me.</p>
+        <p>My heart pounded as I tried to gather my somewhat tipsy thoughts. "Tell her I'm not coming back," I replied, picking up my fork to dig into the tender beef and beans I had ordered. As I chewed, a wave of guilt washed over me. My mind checked in, reminding me that according to the Torah, also known as the Old Testament, a Jew is forbidden from eating meat that hasn’t been prepared according to the laws outlined by earlier rabbis.
+        </p>
+        <p>
+            "What are you saying?" I heard on the other side waking me up from my deep thoughts. I centered myself again and answered, "Yes, I have come to the realization that this life is not for me and therefore I would like to file for divorce."
+        </p>
+        <p>I hung up the phone and released a sigh of relife</p>
+        <p></p>
+    </div>
+</body>
+</html> 
